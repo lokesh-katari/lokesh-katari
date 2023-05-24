@@ -1,4 +1,4 @@
-# hii👋 I'm Lokesh Katari ✨
+# hii👋 I'm Lokesh Katari 
 🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with  web-applications<br>🌱 I’m currently learning  full-stack-development<br>💬 Ask me about web-development and programming<br>
 
 
