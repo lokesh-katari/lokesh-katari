@@ -2,6 +2,7 @@
 🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with  web-applications<br>🌱 I’m currently learning  full-stack-development<br>💬 Ask me about web-development and programming<br>
 
 
+[![](https://visitcount.itsvg.in/api?id=lokesh-katari&icon=2&color=8)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokesh.katari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katari-lokesh-517620225/) 
 
@@ -19,6 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokesh-katari&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
