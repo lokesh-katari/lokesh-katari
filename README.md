@@ -21,7 +21,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/lokesh-katari/) 
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](twitter.com/lokeshkatari921)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/lokeshkatari921)
 [![mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](mailto:lokeshkatari921@outlook.com)
 
 # 💻 Tech Stack:
