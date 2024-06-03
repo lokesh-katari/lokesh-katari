@@ -1,20 +1,23 @@
 # hii👋 I'm Lokesh Katari 
-<table>
-  <tr>
-    <td>
-      🔭 I’m currently working on Web3 <br>
-      👯 I’m looking to collaborate on open-source projects<br>
-      🤝 I’m looking for help with web applications<br>
-      🌱 I’m currently learning full-stack development<br>
-      💬 Ask me about web development and programming<br>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200"/>
-    </td>
-  </tr>
-</table>
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
+<div align="left">
+ 🔭 I’m currently working on Web3 <br>
+👯 I’m looking to collaborate on open-source projects<br>
+🤝 I’m looking for help with web applications<br>
+🌱 I’m currently learning full-stack development<br>
+💬 Ask me about web development and programming<br>
+
+</div>
+<div>
+  
 
 [![](https://visitcount.itsvg.in/api?id=lokesh-katari&icon=2&color=8)](https://visitcount.itsvg.in)
+</div>
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/lokesh-katari/) 
