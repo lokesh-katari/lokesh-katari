@@ -1,10 +1,25 @@
 # hii👋 I'm Lokesh Katari 
-🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with  web-applications<br>🌱 I’m currently learning  full-stack-development<br>💬 Ask me about web-development and programming<br>
-
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on Web3 <br>
+      👯 I’m looking to collaborate on open-source projects<br>
+      🤝 I’m looking for help with web applications<br>
+      🌱 I’m currently learning full-stack development<br>
+      💬 Ask me about web development and programming<br>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200"/>
+    </td>
+  </tr>
+</table>
 
 [![](https://visitcount.itsvg.in/api?id=lokesh-katari&icon=2&color=8)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokesh.katari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katari-lokesh-517620225/) 
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/lokesh-katari/) 
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](twitter.com/lokeshkatari921)
+[![mail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](mailto:lokeshkatari921@outlook.com)
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
