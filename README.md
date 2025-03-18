@@ -15,6 +15,8 @@
   
 
 [![](https://visitcount.itsvg.in/api?id=lokesh-katari&icon=2&color=8)](https://visitcount.itsvg.in)
+
+[![wakatime](https://wakatime.com/badge/user/22605127-f5cf-4d2d-8e7f-3b2ce87dd92e.svg)](https://wakatime.com/@22605127-f5cf-4d2d-8e7f-3b2ce87dd92e)
 </div>
 
 
